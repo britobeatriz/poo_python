@@ -1,6 +1,7 @@
 # Los atributos son variables que pertenecen a una clase.
-# ejemplo
+# ejemplos
 
+# función constructora
 class Celular():
     def __init__(self, marca, modelo, camara):
         self.marca = marca

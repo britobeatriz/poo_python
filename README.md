@@ -7,3 +7,4 @@ La programacion orientada a objetos es un paradigma de programacion que utiliza 
 - herencia
 - polimorfismo
 - encapsulamiento
+- setters y getters
